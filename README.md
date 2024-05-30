@@ -9,16 +9,16 @@ The Doctor Appointment Management System is a web application that allows patien
 ## Features
 
 - *User Module:*
-  1. Home Page: In this section, user can view the welcome page of the web application.
-  2. Book: In this section, user can sent the appointment request.
-  3. Check Appointment: In this section, user can search appointment with the help of user appointment number/Name/Mobile Number
+  - Home Page: In this section, user can view the welcome page of the web application.
+  - Book: In this section, user can sent the appointment request.
+  - Check Appointment: In this section, user can search appointment with the help of user appointment number/Name/Mobile Number
 
 - *Doctor Module:*
-  1. Dashboard:  In this section, the doctor can briefly view the total number of new appointment, total approved appointment,s and total canceled appointments.
-  2. Appointment: In this section, the doctor views the appointment details and they have also the right to change application status according to the current status.
-  3. Reports: In this section doctor can view the appointment details in a particular period.
-  4. Search: In this section, doctor can search appointments with the help of user appointment number/Name/Mobile Number
-  Doctor can also update his profile, change the password and recover the password.
+  - Dashboard:  In this section, the doctor can briefly view the total number of new appointment, total approved appointment,s and total canceled appointments.
+  - Appointment: In this section, the doctor views the appointment details and they have also the right to change application status according to the current status.
+  - Reports: In this section doctor can view the appointment details in a particular period.
+  - Search: In this section, doctor can search appointments with the help of user appointment number/Name/Mobile Number
+   Doctor can also update his profile, change the password and recover the password.
 
 ## Refactoring to Laravel
 
@@ -55,7 +55,7 @@ The project has been refactored to follow the Laravel framework structure. The r
    - Clone this repository to your local machine or download the ZIP file and extract it.
 
      ```bash
-     git clone <git@github.com:khalidalghifari/Kelompok_2_4_Laravel.git>
+     git clone git@github.com:khalidalghifari/Kelompok_2_4_Laravel.git
      ```
    
 3. *Install Composer Dependencies:*
