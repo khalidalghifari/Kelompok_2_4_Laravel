@@ -94,12 +94,12 @@ The project has been refactored to follow the Laravel framework structure. The r
 
 The project follows the Laravel framework structure with the following directories:
 
-- app/Models: Contains all the model classes for database interaction.
-- resources/views: Contains all the view files for rendering the user interface.
-- app/Http/Controllers: Contains all the controller classes for handling the logic and user input.
-- database/migrations: Contains all the migration files for creating database schemas.
-- routes: Contains all the application routes.
-- public: Contains publicly accessible files such as index.php and assets (CSS, JS, images).
+- `app/Models`: Contains all the model classes for database interaction.
+- `resources/views`: Contains all the view files for rendering the user interface.
+- `app/Http/Controllers`: Contains all the controller classes for handling the logic and user input.
+- `database/migrations`: Contains all the migration files for creating database schemas.
+- `routes`: Contains all the application routes.
+- `public`: Contains publicly accessible files such as index.php and assets (CSS, JS, images).
 
 ## Contributors
 
