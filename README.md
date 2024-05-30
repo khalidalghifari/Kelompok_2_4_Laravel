@@ -48,7 +48,7 @@ The project has been refactored to follow the Laravel framework structure. The r
   
 2. *Create Database*
    - Open phpMyAdmin by navigating to http://localhost/phpmyadmin/.
-   - Create new databases named damsms.
+   - Create new databases named `damsms`.
 
 2. *Clone the Repository:*
 
